@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superhero Data Visualization</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Add the noUiSlider dependencies -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.4.0/nouislider.css">
+
+
+    <link rel="stylesheet" type="text/css" href="dist/easyScrollDots.min.css" />
+</head>
+<body>
+
+<!-- Video Section -->
+<section id="video-intro" class="section scroll-section">
+    <div class="video-container">
+        <video id="intro-video" muted playsinline preload="none">
+            <source src="hero.mp4" type="video/mp4">
+        </video>
+        <audio id="backgroundMusic">
+            <source src="thunderstruck.mp3" type="audio/mp3">
+        </audio>
+        <div class="play-overlay" id="playOverlay">
+            <button class="play-button">
+                <span class="enter-text">Enter</span>
+            </button>
+        </div>
+        <div class="audio-controls">
+            <button onclick="toggleMute()" class="mute-button">Mute</button>
+            <input type="range" min="0" max="1" step="0.1" value="0.3"
+                   onchange="adjustMusicVolume(this.value)"
+                   class="volume-slider">
+        </div>
+    </div>
+</section>
+
+<!-- Xavier's Invitation Slide -->
+<div id="xavier-invitation" class="section scroll-section" data-scroll-indicator-title="Invitation">
+    <div class="invitation-container">
+        <img src="images/letter.png" alt="Invitation from Xavier's School for Gifted Youngsters" class="invitation-image">
+    </div>
+    <div class="scroll-indicator">
+        <span>Scroll to Explore</span>
+        <div class="arrow"></div>
+    </div>
+</div>
+
+<!-- Letter Content Slide -->
+<div id="letter-content-slide" class="section scroll-section" data-scroll-indicator-title="Acceptance Letter">
+    <div class="letter-content-container">
+        <!-- School Logo -->
+        <div class="logo-container">
+            <img src="images/xmen.jpg" alt="Xavier's School Logo" class="school-logo">
+        </div>
+
+        <!-- Letter Content -->
+        <h2 class="letter-title">Dear Student,</h2>
+        <p class="letter-paragraph">
+            Congratulations! I am pleased to notify you that you have been granted admission to <strong>Xavier's School for Gifted Youngsters</strong> to pursue full-time study for this academic year.
+        </p>
+        <p class="letter-paragraph">
+            You will be a part of an impressive cohort of students who bring with them not only remarkable abilities and a willingness to learn more about their craft, but also a dedication to assisting in the progress of mutantkind, and thus making our world a better place.
+        </p>
+        <p class="letter-paragraph">
+            I very much hope that you will decide to join us in the Fall. We know that you can prove to be a valuable asset to both human and mutantkind, and we believe that under the tutelage of our faculty, we can foster your gifts to the best of their ability.
+        </p>
+
+        <!-- Signature -->
+        <p class="letter-signature">
+            Sincerely,
+        </p>
+        <div class="signature-container">
+            <img src="images/sig.png" alt="Professor Charles Xavier's Signature" class="signature-image">
+        </div>
+        <p class="letter-signature">
+            <strong>Professor Charles Xavier</strong>
+        </p>
+    </div>
+</div>
+
+
+<!-- Xavier Image Slide -->
+<div id="xavier-slide" class="section scroll-section" data-scroll-indicator-title="Xavier Welcome">
+    <div class="xavier-container">
+        <img src="images/xavier.png" alt="Xavier Image" class="xavier-image">
+    </div>
+</div>
+
+<!-- Hall Image Slide -->
+<div id="hall-slide" class="section scroll-section" data-scroll-indicator-title="Hall">
+    <div class="hall-container">
+        <img src="images/hall.png" alt="Hall Image" class="hall-image">
+    </div>
+</div>
+
+<!-- Villains code -->
+<div id="villains-slide" class="section scroll-section" data-scroll-indicator-title="Villains">
+    <div class="white-background-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div id="chart-area"></div>
+                    <div id="slider" class="mt-4"></div>
+                </div>
+                <div class="col-md-4">
+                    <div id="details-area" class="p-3" style="background-color: #fafafa; border: 1px solid #ccc; border-radius: 10px;">
+                        <h3 class="mb-3">Details</h3>
+                        <table class="table">
+                            <tbody>
+                            <tr>
+                                <td><strong>Number</strong></td>
+                                <td id="details-number"></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Avg. Intelligence</strong></td>
+                                <td id="details-intelligence"></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Avg. Strength</strong></td>
+                                <td id="details-strength"></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Avg. Speed</strong></td>
+                                <td id="details-speed"></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Avg. Durability</strong></td>
+                                <td id="details-durability"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Office Image Slide -->
+<div id="office-slide" class="section scroll-section" data-scroll-indicator-title="Office">
+    <div class="office-container">
+        <img src="images/office.png" alt="Professor's Office" class="office-image">
+    </div>
+</div>
+
+<!-- Power Attributes Slide -->
+<div id="power-attributes-slide" class="section scroll-section" data-scroll-indicator-title="Powers">
+    <div class="white-background-container">
+        <div class="quadrants-container">
+            <div class="quadrant" data-attribute="strength">
+                <h3 class="attribute-title">Strength</h3>
+                <div class="image-container">
+                    <img src="images/strength.png" alt="Strength" class="attribute-image">
+                    <div class="hover-text">Click here to learn more!</div>
+                </div>
+                <div class="description hidden">
+                    To embody <strong>strength</strong> as a superhero means not just possessing great physical power but also showing <em>resilience, compassion, and the courage to face overwhelming challenges</em> for the greater good. A notable example of strength is the <strong>Hulk</strong>, whose raw power is unmatched, yet his journey underscores the importance of controlling and channeling that power for the right reasons.
+                </div>
+            </div>
+            <div class="quadrant" data-attribute="speed">
+                <h3 class="attribute-title">Speed</h3>
+                <div class="image-container">
+                    <img src="images/speed.png" alt="Speed" class="attribute-image">
+                    <div class="hover-text">Click here to learn more!</div>
+                </div>
+                <div class="description hidden">
+                    To embody <strong>speed</strong> as a superhero means moving faster than the eye can see, but also thinking and acting with precision and urgency to protect those in danger. A superhero who exemplifies this is the <strong>Flash</strong>, whose incredible velocity allows him to outmaneuver enemies and save lives in the blink of an eye.
+                </div>
+            </div>
+            <div class="quadrant" data-attribute="intelligence">
+                <h3 class="attribute-title">Intelligence</h3>
+                <div class="image-container">
+                    <img src="images/intelligence.png" alt="Intelligence" class="attribute-image">
+                    <div class="hover-text">Click here to learn more!</div>
+                </div>
+                <div class="description hidden">
+                    To embody <strong>intelligence</strong> as a superhero means using knowledge, strategy, and innovation to overcome challenges and create solutions where brute force falls short. A prime example is Tony Stark, whose genius as <strong>Iron Man</strong> combines unparalleled technological brilliance with creative problem-solving to protect humanity.
+                </div>
+            </div>
+            <div class="quadrant" data-attribute="durability">
+                <h3 class="attribute-title">Durability</h3>
+                <div class="image-container">
+                    <img src="images/durability.png" alt="Durability" class="attribute-image">
+                    <div class="hover-text">Click here to learn more!</div>
+                </div>
+                <div class="description hidden">
+                    To embody <strong>durability</strong> as a superhero means withstanding immense physical and emotional hardships while remaining steadfast in the face of adversity. A superhero known for their incredible durability is <strong>Wolverine</strong>, whose regenerative healing factor allows him to recover from nearly any injury and keep fighting for what he believes in.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Bar Chart Section -->
+<section id="bar-chart-section" class="section scroll-section" data-scroll-indicator-title="Attribute Comparison">
+    <div class="white-background-container">
+        <div class="section-content">
+            <h2>A Look at Each of the Trait Levels for Heroes, Villains, and Neutral Characters  </h2>
+            <select id="attribute-select" class="form-select mb-3">
+            </select>
+            <div id="bar-chart"></div>
+        </div>
+    </div>
+</section>
+
+<!-- Classroom Image Slide -->
+<div id="classroom-slide" class="section scroll-section" data-scroll-indicator-title="Classroom">
+    <div class="classroom-container">
+        <img src="images/classroom.png" alt="Classroom Image" class="classroom-image">
+    </div>
+</div>
+
+<!-- Intelligence Test Section -->
+<div id="intelligence-test-section" class="section scroll-section" data-scroll-indicator-title="Intelligence">
+    <div class="white-background-container">
+        <div class="section-content" style="display: flex; flex-direction: column; align-items: center; padding: 2rem;">
+            <h2>Intelligence Test</h2>
+            <div id="intelligence-test-container"></div>
+
+            <!-- Puzzle container -->
+            <div id="hanoi-puzzle-container" style="display:none; margin-top: 2rem; text-align: center;">
+                <div id="message" style=" margin-top: 2rem; text-align: center;: 1rem;"></div>
+
+                <div id="towers" style="display: flex; justify-content: center; align-items: flex-end; gap: 2rem;">
+                    <ul class="tower" data-tower="0"></ul>
+                    <ul class="tower" data-tower="1"></ul>
+                    <ul class="tower" data-tower="2"></ul>
+                </div>
+
+                <div id="buttons" style="display: flex; gap: 1rem; justify-content: center; margin-top: 1rem;">
+                    <div class="solve" style="cursor: pointer;">Solve</div>
+                    <div class="restart" style="cursor: pointer;">Restart</div>
+                </div>
+            </div>
+
+            <!-- Wolf Goat Cabbage after puzzle -->
+            <div id="wolf-goat-cabbage-container" style="display:none; margin-top: 2rem; text-align: center;">
+                <h3>Wolf, Goat, and Cabbage Riddle</h3>
+                <p>Help the farmer cross the river...</p>
+                <div id="wgc-visualization"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="reaction-test" class="scroll-section" data-scroll-indicator-title="Speed">
+    <div class="white-background-container">
+        <div class="section-content">
+            <h2>Reaction Speed Test</h2>
+            <p>Test your reaction speed by clicking when the screen turns green.</p>
+            <div id="reactionTestContainer"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Strength Quiz Section -->
+<div id="strength-quiz" class="section scroll-section" data-scroll-indicator-title="Strength">
+    <div class="white-background-container">
+        <div class="white-background-container">
+            <div class="section-content">
+                <h2>Strength Quiz</h2>
+                <p>Select your one-rep-max for each lift to calculate your average strength score:</p>
+                <h3>Average Strength Score: <span id="average-strength">50%</span></h3>
+                <div class="strength-grid">
+                    <!-- Bench Press -->
+                    <div class="strength-item">
+                        <h3 class="strength-title">Bench Press</h3>
+                        <img src="images/bench-press.jpg" alt="Bench Press" class="strength-image">
+                        <label for="bench-slider">Max Bench Press (0-300 lbs):</label>
+                        <input type="range" id="bench-slider" min="0" max="300" value="150" oninput="updateStrength('bench', this.value)">
+                        <span id="bench-value">150 lbs</span>
+                        <p>Bench Press: <span id="bench-percent">50%</span></p>
+                    </div>
+                    <!-- Deadlift -->
+                    <div class="strength-item">
+                        <h3 class="strength-title">Deadlift</h3>
+                        <img src="images/deadlift.jpg" alt="Deadlift" class="strength-image">
+                        <label for="deadlift-slider">Max Deadlift (0-500 lbs):</label>
+                        <input type="range" id="deadlift-slider" min="0" max="500" value="250" oninput="updateStrength('deadlift', this.value)">
+                        <span id="deadlift-value">250 lbs</span>
+                        <p>Deadlift: <span id="deadlift-percent">50%</span></p>
+                    </div>
+                    <!-- Squat -->
+                    <div class="strength-item">
+                        <h3 class="strength-title">Back Squat</h3>
+                        <img src="images/squat.jpg" alt="Back Squat" class="strength-image">
+                        <label for="squat-slider">Max Backsquat (0-400 lbs):</label>
+                        <input type="range" id="squat-slider" min="0" max="400" value="200" oninput="updateStrength('squat', this.value)">
+                        <span id="squat-value">200 lbs</span>
+                        <p>Back Squat: <span id="squat-percent">50%</span></p>
+                    </div>
+                </div>
+                <button id="submit-button" class="submit-button">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Durability Test Section -->
+<div id="durability-test-section" class="section scroll-section" data-scroll-indicator-title="Durability">
+    <div class="white-background-container">
+        <div class="section-content">
+            <h2>Durability Test</h2>
+            <div id="durability-test-container"></div>
+        </div>
+    </div>
+</div>
+
+<div id="gallery-slide" class="section scroll-section" data-scroll-indicator-title="Results">
+    <div class="gallery-container">
+        <img src="images/PNG%20image.PNG" alt="Gallery Image" class="gallery-image">
+    </div>
+</div>
+
+<!-- Character Comparison Section -->
+<div id="character-comparison" class="section scroll-section" data-scroll-indicator-title="Compare">
+    <div class="white-background-container">
+        <div class="section-content">
+            <h2>See How You Compare to Your Fellow Heroes</h2>
+            <div class="visualization-container">
+                <div id="radar-comparison"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Network Graph Section -->
+<div id="network-graph" class="section scroll-section" data-scroll-indicator-title="Network">
+    <div class="white-background-container">
+    <div class="section-content">
+        <h2>How You Stack Up Against the World's Greatest Heroes and Villains (User Indicated by the Box)</h2>
+        <div class="visualization-container">
+            <div id="network-graph-container"></div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<!-- Map Visualization Section -->
+<div id="map-vis-section" class="section scroll-section" data-scroll-indicator-title="Map">
+    <div class="white-background-container">
+        <div class="section-content">
+            <h2>Input the City You Live in and Check for Nearby Heroes</h2>
+            <div id="closest-hero" style="margin-top: 20px; font-size: 16px; color: #333;"></div>
+            <div id="mapDiv" style="height: 600px; width: 100%;"></div>
+        </div>
+    </div>
+</div>
+
+<div id="end-slide" class="section scroll-section" data-scroll-indicator-title="Conclusion">
+    <div class="gallery-container">
+        <img src="images/PNG%20image%202.PNG" alt="End Image" class="end-image">
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="bg-dark text-light py-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h5>About the Project</h5>
+                <p>A data visualization project exploring superhero characteristics across different publishers and time periods.</p>
+            </div>
+            <div class="col-md-6">
+                <h5>Data Sources</h5>
+                <ul>
+                    <li>Superhero Database</li>
+                    <li>Marvel Comics Database</li>
+                    <li>DC Comics Database</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Bootstrap JS -->
+<script type="text/javascript" src="dist/easyScrollDots.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- Custom JS -->
+<script src="js/audio.js"></script>
+<script src="js/intelligenceTest.js"></script>
+<script src="js/user_score.js"></script>
+<script src="js/hanoi.js"></script>
+<script src="js/intelligenceTest.js"></script>
+<script src="js/mapVis.js"></script>
+<script src="js/scroll.js"></script>
+<script src="js/radarChart.js"></script>
+<script src="js/networkGraph.js"></script>
+<script src="js/reactionTest.js"></script>
+<script src="js/strength.js"></script>
+<script src="js/durabilityTest.js"></script>
+<script src="js/barChart.js"></script>
+<script src="js/villains.js"></script>
+<script src="js/main.js"></script>
+
+
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.4.0/nouislider.min.js"></script>
+
+</body>
+</html>

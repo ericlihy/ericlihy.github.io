@@ -1,0 +1,4915 @@
+{
+    "nodes": [
+        {
+            "id": "intelligence",
+            "group": 1
+        },
+        {
+            "id": "strength",
+            "group": 2
+        },
+        {
+            "id": "speed",
+            "group": 3
+        },
+        {
+            "id": "durability",
+            "group": 4
+        },
+        {
+            "id": "A-Bomb",
+            "group": 2
+        },
+        {
+            "id": "Abin Sur",
+            "group": 2
+        },
+        {
+            "id": "Abomination",
+            "group": 4
+        },
+        {
+            "id": "Absorbing Man",
+            "group": 4
+        },
+        {
+            "id": "Adam Strange",
+            "group": 1
+        },
+        {
+            "id": "Agent Bob",
+            "group": 3
+        },
+        {
+            "id": "Air-Walker",
+            "group": 3
+        },
+        {
+            "id": "Ajax",
+            "group": 4
+        },
+        {
+            "id": "Alan Scott",
+            "group": 4
+        },
+        {
+            "id": "Alfred Pennyworth",
+            "group": 1
+        },
+        {
+            "id": "Amazo",
+            "group": 2
+        },
+        {
+            "id": "Angel Dust",
+            "group": 2
+        },
+        {
+            "id": "Animal Man",
+            "group": 4
+        },
+        {
+            "id": "Annihilus",
+            "group": 2
+        },
+        {
+            "id": "Ant-Man II",
+            "group": 1
+        },
+        {
+            "id": "Apocalypse",
+            "group": 1
+        },
+        {
+            "id": "Aqualad",
+            "group": 4
+        },
+        {
+            "id": "Aquaman",
+            "group": 2
+        },
+        {
+            "id": "Arachne",
+            "group": 4
+        },
+        {
+            "id": "Arclight",
+            "group": 2
+        },
+        {
+            "id": "Ardina",
+            "group": 2
+        },
+        {
+            "id": "Ares",
+            "group": 2
+        },
+        {
+            "id": "Ariel",
+            "group": 1
+        },
+        {
+            "id": "Armor",
+            "group": 4
+        },
+        {
+            "id": "Atlas",
+            "group": 2
+        },
+        {
+            "id": "Atom Girl",
+            "group": 1
+        },
+        {
+            "id": "Atom II",
+            "group": 1
+        },
+        {
+            "id": "Aurora",
+            "group": 3
+        },
+        {
+            "id": "Azazel",
+            "group": 4
+        },
+        {
+            "id": "Bane",
+            "group": 1
+        },
+        {
+            "id": "Banshee",
+            "group": 3
+        },
+        {
+            "id": "Bantam",
+            "group": 4
+        },
+        {
+            "id": "Batgirl IV",
+            "group": 1
+        },
+        {
+            "id": "Batman",
+            "group": 1
+        },
+        {
+            "id": "Battlestar",
+            "group": 4
+        },
+        {
+            "id": "Beast",
+            "group": 1
+        },
+        {
+            "id": "Beast Boy",
+            "group": 4
+        },
+        {
+            "id": "Beta Ray Bill",
+            "group": 4
+        },
+        {
+            "id": "Big Barda",
+            "group": 2
+        },
+        {
+            "id": "Big Man",
+            "group": 1
+        },
+        {
+            "id": "Bishop",
+            "group": 4
+        },
+        {
+            "id": "Bizarro",
+            "group": 3
+        },
+        {
+            "id": "Black Adam",
+            "group": 2
+        },
+        {
+            "id": "Black Bolt",
+            "group": 3
+        },
+        {
+            "id": "Black Canary",
+            "group": 1
+        },
+        {
+            "id": "Black Cat",
+            "group": 1
+        },
+        {
+            "id": "Black Knight III",
+            "group": 4
+        },
+        {
+            "id": "Black Lightning",
+            "group": 3
+        },
+        {
+            "id": "Black Mamba",
+            "group": 1
+        },
+        {
+            "id": "Black Manta",
+            "group": 1
+        },
+        {
+            "id": "Black Panther",
+            "group": 1
+        },
+        {
+            "id": "Black Widow",
+            "group": 1
+        },
+        {
+            "id": "Blackout",
+            "group": 4
+        },
+        {
+            "id": "Blackwing",
+            "group": 1
+        },
+        {
+            "id": "Blackwulf",
+            "group": 1
+        },
+        {
+            "id": "Blade",
+            "group": 1
+        },
+        {
+            "id": "Bling!",
+            "group": 4
+        },
+        {
+            "id": "Blink",
+            "group": 1
+        },
+        {
+            "id": "Blizzard II",
+            "group": 4
+        },
+        {
+            "id": "Blob",
+            "group": 4
+        },
+        {
+            "id": "Bloodaxe",
+            "group": 2
+        },
+        {
+            "id": "Booster Gold",
+            "group": 2
+        },
+        {
+            "id": "Brainiac",
+            "group": 1
+        },
+        {
+            "id": "Bullseye",
+            "group": 4
+        },
+        {
+            "id": "Bumblebee",
+            "group": 1
+        },
+        {
+            "id": "Cable",
+            "group": 1
+        },
+        {
+            "id": "Callisto",
+            "group": 1
+        },
+        {
+            "id": "Cannonball",
+            "group": 4
+        },
+        {
+            "id": "Captain America",
+            "group": 1
+        },
+        {
+            "id": "Captain Atom",
+            "group": 2
+        },
+        {
+            "id": "Captain Britain",
+            "group": 2
+        },
+        {
+            "id": "Captain Marvel",
+            "group": 2
+        },
+        {
+            "id": "Captain Marvel II",
+            "group": 4
+        },
+        {
+            "id": "Carnage",
+            "group": 4
+        },
+        {
+            "id": "Catwoman",
+            "group": 1
+        },
+        {
+            "id": "Century",
+            "group": 1
+        },
+        {
+            "id": "Chamber",
+            "group": 4
+        },
+        {
+            "id": "Changeling",
+            "group": 1
+        },
+        {
+            "id": "Cheetah",
+            "group": 3
+        },
+        {
+            "id": "Cheetah II",
+            "group": 3
+        },
+        {
+            "id": "Cheetah III",
+            "group": 2
+        },
+        {
+            "id": "Citizen Steel",
+            "group": 4
+        },
+        {
+            "id": "Cloak",
+            "group": 4
+        },
+        {
+            "id": "Clock King",
+            "group": 1
+        },
+        {
+            "id": "Colossus",
+            "group": 4
+        },
+        {
+            "id": "Copycat",
+            "group": 1
+        },
+        {
+            "id": "Cottonmouth",
+            "group": 1
+        },
+        {
+            "id": "Crystal",
+            "group": 1
+        },
+        {
+            "id": "Cyborg",
+            "group": 4
+        },
+        {
+            "id": "Cyclops",
+            "group": 1
+        },
+        {
+            "id": "Daredevil",
+            "group": 1
+        },
+        {
+            "id": "Darkhawk",
+            "group": 4
+        },
+        {
+            "id": "Darkseid",
+            "group": 2
+        },
+        {
+            "id": "Darkstar",
+            "group": 4
+        },
+        {
+            "id": "Dazzler",
+            "group": 1
+        },
+        {
+            "id": "Deadman",
+            "group": 4
+        },
+        {
+            "id": "Deadshot",
+            "group": 1
+        },
+        {
+            "id": "Deathlok",
+            "group": 4
+        },
+        {
+            "id": "Deathstroke",
+            "group": 4
+        },
+        {
+            "id": "Demogoblin",
+            "group": 1
+        },
+        {
+            "id": "Destroyer",
+            "group": 4
+        },
+        {
+            "id": "Diamondback",
+            "group": 1
+        },
+        {
+            "id": "Doc Samson",
+            "group": 2
+        },
+        {
+            "id": "Doctor Doom",
+            "group": 1
+        },
+        {
+            "id": "Doctor Fate",
+            "group": 1
+        },
+        {
+            "id": "Doctor Octopus",
+            "group": 1
+        },
+        {
+            "id": "Doctor Strange",
+            "group": 1
+        },
+        {
+            "id": "Domino",
+            "group": 1
+        },
+        {
+            "id": "Doomsday",
+            "group": 2
+        },
+        {
+            "id": "Doppelganger",
+            "group": 4
+        },
+        {
+            "id": "Drax the Destroyer",
+            "group": 4
+        },
+        {
+            "id": "Electro",
+            "group": 1
+        },
+        {
+            "id": "Elektra",
+            "group": 1
+        },
+        {
+            "id": "Elongated Man",
+            "group": 4
+        },
+        {
+            "id": "Emma Frost",
+            "group": 4
+        },
+        {
+            "id": "Enchantress",
+            "group": 1
+        },
+        {
+            "id": "Etrigan",
+            "group": 4
+        },
+        {
+            "id": "Evilhawk",
+            "group": 4
+        },
+        {
+            "id": "Exodus",
+            "group": 2
+        },
+        {
+            "id": "Falcon",
+            "group": 3
+        },
+        {
+            "id": "Feral",
+            "group": 3
+        },
+        {
+            "id": "Firebird",
+            "group": 3
+        },
+        {
+            "id": "Firelord",
+            "group": 4
+        },
+        {
+            "id": "Firestar",
+            "group": 4
+        },
+        {
+            "id": "Firestorm",
+            "group": 2
+        },
+        {
+            "id": "Flash",
+            "group": 3
+        },
+        {
+            "id": "Forge",
+            "group": 1
+        },
+        {
+            "id": "Franklin Richards",
+            "group": 2
+        },
+        {
+            "id": "Franklin Storm",
+            "group": 1
+        },
+        {
+            "id": "Frenzy",
+            "group": 4
+        },
+        {
+            "id": "Galactus",
+            "group": 1
+        },
+        {
+            "id": "Gambit",
+            "group": 1
+        },
+        {
+            "id": "Gamora",
+            "group": 2
+        },
+        {
+            "id": "Ghost Rider",
+            "group": 4
+        },
+        {
+            "id": "Gladiator",
+            "group": 2
+        },
+        {
+            "id": "Goblin Queen",
+            "group": 1
+        },
+        {
+            "id": "Gorilla Grodd",
+            "group": 1
+        },
+        {
+            "id": "Gravity",
+            "group": 1
+        },
+        {
+            "id": "Green Arrow",
+            "group": 1
+        },
+        {
+            "id": "Green Goblin",
+            "group": 1
+        },
+        {
+            "id": "Green Goblin II",
+            "group": 1
+        },
+        {
+            "id": "Groot",
+            "group": 2
+        },
+        {
+            "id": "Guy Gardner",
+            "group": 2
+        },
+        {
+            "id": "Hal Jordan",
+            "group": 2
+        },
+        {
+            "id": "Harley Quinn",
+            "group": 1
+        },
+        {
+            "id": "Havok",
+            "group": 1
+        },
+        {
+            "id": "Hawk",
+            "group": 4
+        },
+        {
+            "id": "Hawkeye II",
+            "group": 1
+        },
+        {
+            "id": "Hawkgirl",
+            "group": 4
+        },
+        {
+            "id": "Heat Wave",
+            "group": 4
+        },
+        {
+            "id": "Hela",
+            "group": 2
+        },
+        {
+            "id": "Hellcat",
+            "group": 1
+        },
+        {
+            "id": "Hope Summers",
+            "group": 1
+        },
+        {
+            "id": "Hulk",
+            "group": 2
+        },
+        {
+            "id": "Human Torch",
+            "group": 4
+        },
+        {
+            "id": "Husk",
+            "group": 4
+        },
+        {
+            "id": "Hybrid",
+            "group": 4
+        },
+        {
+            "id": "Hydro-Man",
+            "group": 4
+        },
+        {
+            "id": "Hyperion",
+            "group": 2
+        },
+        {
+            "id": "Iceman",
+            "group": 4
+        },
+        {
+            "id": "Ink",
+            "group": 4
+        },
+        {
+            "id": "Invisible Woman",
+            "group": 1
+        },
+        {
+            "id": "Iron Fist",
+            "group": 1
+        },
+        {
+            "id": "Iron Man",
+            "group": 1
+        },
+        {
+            "id": "Jack of Hearts",
+            "group": 3
+        },
+        {
+            "id": "Jennifer Kale",
+            "group": 1
+        },
+        {
+            "id": "John Stewart",
+            "group": 2
+        },
+        {
+            "id": "John Wraith",
+            "group": 1
+        },
+        {
+            "id": "Joker",
+            "group": 1
+        },
+        {
+            "id": "Jolt",
+            "group": 1
+        },
+        {
+            "id": "Jubilee",
+            "group": 1
+        },
+        {
+            "id": "Juggernaut",
+            "group": 2
+        },
+        {
+            "id": "Justice",
+            "group": 4
+        },
+        {
+            "id": "Killer Croc",
+            "group": 4
+        },
+        {
+            "id": "Kilowog",
+            "group": 2
+        },
+        {
+            "id": "Kingpin",
+            "group": 1
+        },
+        {
+            "id": "Klaw",
+            "group": 4
+        },
+        {
+            "id": "Kraven II",
+            "group": 1
+        },
+        {
+            "id": "Kraven the Hunter",
+            "group": 1
+        },
+        {
+            "id": "Krypto",
+            "group": 3
+        },
+        {
+            "id": "Kyle Rayner",
+            "group": 2
+        },
+        {
+            "id": "Lady Deathstrike",
+            "group": 4
+        },
+        {
+            "id": "Legion",
+            "group": 2
+        },
+        {
+            "id": "Lex Luthor",
+            "group": 1
+        },
+        {
+            "id": "Light Lass",
+            "group": 1
+        },
+        {
+            "id": "Lightning Lad",
+            "group": 1
+        },
+        {
+            "id": "Lightning Lord",
+            "group": 1
+        },
+        {
+            "id": "Living Brain",
+            "group": 1
+        },
+        {
+            "id": "Lizard",
+            "group": 4
+        },
+        {
+            "id": "Lobo",
+            "group": 2
+        },
+        {
+            "id": "Loki",
+            "group": 1
+        },
+        {
+            "id": "Longshot",
+            "group": 1
+        },
+        {
+            "id": "MODOK",
+            "group": 1
+        },
+        {
+            "id": "Mach-IV",
+            "group": 4
+        },
+        {
+            "id": "Magneto",
+            "group": 1
+        },
+        {
+            "id": "Man-Thing",
+            "group": 4
+        },
+        {
+            "id": "Man-Wolf",
+            "group": 1
+        },
+        {
+            "id": "Mandarin",
+            "group": 1
+        },
+        {
+            "id": "Mantis",
+            "group": 4
+        },
+        {
+            "id": "Martian Manhunter",
+            "group": 1
+        },
+        {
+            "id": "Marvel Girl",
+            "group": 2
+        },
+        {
+            "id": "Maverick",
+            "group": 1
+        },
+        {
+            "id": "Medusa",
+            "group": 1
+        },
+        {
+            "id": "Mera",
+            "group": 3
+        },
+        {
+            "id": "Metallo",
+            "group": 4
+        },
+        {
+            "id": "Metron",
+            "group": 1
+        },
+        {
+            "id": "Micro Lad",
+            "group": 1
+        },
+        {
+            "id": "Mimic",
+            "group": 2
+        },
+        {
+            "id": "Miss Martian",
+            "group": 4
+        },
+        {
+            "id": "Mister Fantastic",
+            "group": 1
+        },
+        {
+            "id": "Mister Freeze",
+            "group": 1
+        },
+        {
+            "id": "Mister Sinister",
+            "group": 1
+        },
+        {
+            "id": "Mockingbird",
+            "group": 1
+        },
+        {
+            "id": "Molten Man",
+            "group": 4
+        },
+        {
+            "id": "Moon Knight",
+            "group": 1
+        },
+        {
+            "id": "Moonstone",
+            "group": 2
+        },
+        {
+            "id": "Morlun",
+            "group": 1
+        },
+        {
+            "id": "Moses Magnum",
+            "group": 1
+        },
+        {
+            "id": "Mr Immortal",
+            "group": 4
+        },
+        {
+            "id": "Multiple Man",
+            "group": 4
+        },
+        {
+            "id": "Mysterio",
+            "group": 1
+        },
+        {
+            "id": "Mystique",
+            "group": 1
+        },
+        {
+            "id": "Namor",
+            "group": 2
+        },
+        {
+            "id": "Namora",
+            "group": 2
+        },
+        {
+            "id": "Namorita",
+            "group": 2
+        },
+        {
+            "id": "Nebula",
+            "group": 1
+        },
+        {
+            "id": "Nick Fury",
+            "group": 1
+        },
+        {
+            "id": "Nightcrawler",
+            "group": 1
+        },
+        {
+            "id": "Northstar",
+            "group": 3
+        },
+        {
+            "id": "Nova",
+            "group": 3
+        },
+        {
+            "id": "Odin",
+            "group": 1
+        },
+        {
+            "id": "Onslaught",
+            "group": 2
+        },
+        {
+            "id": "Penguin",
+            "group": 1
+        },
+        {
+            "id": "Phantom Girl",
+            "group": 1
+        },
+        {
+            "id": "Plantman",
+            "group": 1
+        },
+        {
+            "id": "Plastic Man",
+            "group": 4
+        },
+        {
+            "id": "Plastique",
+            "group": 1
+        },
+        {
+            "id": "Poison Ivy",
+            "group": 1
+        },
+        {
+            "id": "Polaris",
+            "group": 2
+        },
+        {
+            "id": "Power Girl",
+            "group": 2
+        },
+        {
+            "id": "Professor X",
+            "group": 1
+        },
+        {
+            "id": "Professor Zoom",
+            "group": 3
+        },
+        {
+            "id": "Psylocke",
+            "group": 1
+        },
+        {
+            "id": "Punisher",
+            "group": 1
+        },
+        {
+            "id": "Purple Man",
+            "group": 1
+        },
+        {
+            "id": "Question",
+            "group": 1
+        },
+        {
+            "id": "Quicksilver",
+            "group": 3
+        },
+        {
+            "id": "Quill",
+            "group": 1
+        },
+        {
+            "id": "Ra's Al Ghul",
+            "group": 1
+        },
+        {
+            "id": "Raven",
+            "group": 4
+        },
+        {
+            "id": "Ray",
+            "group": 4
+        },
+        {
+            "id": "Red Arrow",
+            "group": 1
+        },
+        {
+            "id": "Red Hulk",
+            "group": 2
+        },
+        {
+            "id": "Red Skull",
+            "group": 1
+        },
+        {
+            "id": "Red Tornado",
+            "group": 1
+        },
+        {
+            "id": "Rhino",
+            "group": 4
+        },
+        {
+            "id": "Rick Flag",
+            "group": 1
+        },
+        {
+            "id": "Robin V",
+            "group": 1
+        },
+        {
+            "id": "Rocket Raccoon",
+            "group": 1
+        },
+        {
+            "id": "Rogue",
+            "group": 1
+        },
+        {
+            "id": "Rorschach",
+            "group": 1
+        },
+        {
+            "id": "Sabretooth",
+            "group": 4
+        },
+        {
+            "id": "Sage",
+            "group": 1
+        },
+        {
+            "id": "Sandman",
+            "group": 4
+        },
+        {
+            "id": "Scarecrow",
+            "group": 1
+        },
+        {
+            "id": "Scarlet Spider II",
+            "group": 1
+        },
+        {
+            "id": "Scarlet Witch",
+            "group": 1
+        },
+        {
+            "id": "Sentry",
+            "group": 2
+        },
+        {
+            "id": "Shadow King",
+            "group": 4
+        },
+        {
+            "id": "Shadow Lass",
+            "group": 3
+        },
+        {
+            "id": "Shadowcat",
+            "group": 1
+        },
+        {
+            "id": "Shang-Chi",
+            "group": 1
+        },
+        {
+            "id": "Shatterstar",
+            "group": 4
+        },
+        {
+            "id": "She-Hulk",
+            "group": 2
+        },
+        {
+            "id": "Shocker",
+            "group": 4
+        },
+        {
+            "id": "Sif",
+            "group": 2
+        },
+        {
+            "id": "Silver Surfer",
+            "group": 2
+        },
+        {
+            "id": "Silverclaw",
+            "group": 1
+        },
+        {
+            "id": "Sinestro",
+            "group": 2
+        },
+        {
+            "id": "Siren",
+            "group": 3
+        },
+        {
+            "id": "Siryn",
+            "group": 3
+        },
+        {
+            "id": "Skaar",
+            "group": 4
+        },
+        {
+            "id": "Snowbird",
+            "group": 1
+        },
+        {
+            "id": "Solomon Grundy",
+            "group": 4
+        },
+        {
+            "id": "Space Ghost",
+            "group": 4
+        },
+        {
+            "id": "Spider-Girl",
+            "group": 4
+        },
+        {
+            "id": "Spider-Gwen",
+            "group": 1
+        },
+        {
+            "id": "Spider-Man",
+            "group": 1
+        },
+        {
+            "id": "Spider-Woman",
+            "group": 4
+        },
+        {
+            "id": "Spider-Woman III",
+            "group": 1
+        },
+        {
+            "id": "Spyke",
+            "group": 4
+        },
+        {
+            "id": "Star-Lord",
+            "group": 1
+        },
+        {
+            "id": "Starfire",
+            "group": 4
+        },
+        {
+            "id": "Stargirl",
+            "group": 4
+        },
+        {
+            "id": "Static",
+            "group": 1
+        },
+        {
+            "id": "Steel",
+            "group": 4
+        },
+        {
+            "id": "Steppenwolf",
+            "group": 2
+        },
+        {
+            "id": "Storm",
+            "group": 1
+        },
+        {
+            "id": "Sunspot",
+            "group": 1
+        },
+        {
+            "id": "Superboy",
+            "group": 2
+        },
+        {
+            "id": "Superboy-Prime",
+            "group": 2
+        },
+        {
+            "id": "Supergirl",
+            "group": 2
+        },
+        {
+            "id": "Swarm",
+            "group": 4
+        },
+        {
+            "id": "Synch",
+            "group": 1
+        },
+        {
+            "id": "Taskmaster",
+            "group": 1
+        },
+        {
+            "id": "Thanos",
+            "group": 1
+        },
+        {
+            "id": "The Comedian",
+            "group": 1
+        },
+        {
+            "id": "Thing",
+            "group": 4
+        },
+        {
+            "id": "Thor Girl",
+            "group": 4
+        },
+        {
+            "id": "Thunderbird",
+            "group": 1
+        },
+        {
+            "id": "Thunderstrike",
+            "group": 4
+        },
+        {
+            "id": "Thundra",
+            "group": 2
+        },
+        {
+            "id": "Tiger Shark",
+            "group": 2
+        },
+        {
+            "id": "Tigra",
+            "group": 1
+        },
+        {
+            "id": "Tinkerer",
+            "group": 1
+        },
+        {
+            "id": "Toad",
+            "group": 3
+        },
+        {
+            "id": "Toxin",
+            "group": 4
+        },
+        {
+            "id": "Triplicate Girl",
+            "group": 1
+        },
+        {
+            "id": "Triton",
+            "group": 4
+        },
+        {
+            "id": "Ultron",
+            "group": 4
+        },
+        {
+            "id": "Vanisher",
+            "group": 3
+        },
+        {
+            "id": "Venom II",
+            "group": 4
+        },
+        {
+            "id": "Vibe",
+            "group": 1
+        },
+        {
+            "id": "Vixen",
+            "group": 1
+        },
+        {
+            "id": "Vulture",
+            "group": 1
+        },
+        {
+            "id": "Walrus",
+            "group": 1
+        },
+        {
+            "id": "War Machine",
+            "group": 4
+        },
+        {
+            "id": "Warlock",
+            "group": 4
+        },
+        {
+            "id": "Warp",
+            "group": 1
+        },
+        {
+            "id": "Wasp",
+            "group": 1
+        },
+        {
+            "id": "Winter Soldier",
+            "group": 4
+        },
+        {
+            "id": "Wolfsbane",
+            "group": 4
+        },
+        {
+            "id": "Wolverine",
+            "group": 4
+        },
+        {
+            "id": "Wonder Girl",
+            "group": 2
+        },
+        {
+            "id": "Wonder Man",
+            "group": 2
+        },
+        {
+            "id": "Wonder Woman",
+            "group": 2
+        },
+        {
+            "id": "Wyatt Wingfoot",
+            "group": 3
+        },
+        {
+            "id": "X-23",
+            "group": 4
+        },
+        {
+            "id": "X-Man",
+            "group": 4
+        },
+        {
+            "id": "Yellowjacket II",
+            "group": 1
+        },
+        {
+            "id": "Zatanna",
+            "group": 1
+        },
+        {
+            "id": "Zoom",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "A-Bomb",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "A-Bomb",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Abin Sur",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Abin Sur",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Abin Sur",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Abomination",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Abomination",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Abomination",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Abomination",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Absorbing Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Absorbing Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Adam Strange",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Agent Bob",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Air-Walker",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Air-Walker",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Air-Walker",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ajax",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Ajax",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Alan Scott",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Alan Scott",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Alan Scott",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Alfred Pennyworth",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Amazo",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Amazo",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Amazo",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Amazo",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Angel Dust",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Animal Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Animal Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Annihilus",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Annihilus",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Annihilus",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ant-Man II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Apocalypse",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Apocalypse",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Apocalypse",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Aqualad",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Aqualad",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Aquaman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Aquaman",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Aquaman",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Aquaman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Arachne",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Arclight",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Ardina",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Ardina",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Ardina",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Ardina",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ares",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Ares",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Ares",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ariel",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Armor",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Armor",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Atlas",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Atlas",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Atlas",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Atom Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Atom II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Aurora",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Aurora",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Aurora",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Azazel",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Bane",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Bane",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Banshee",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Bantam",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Bantam",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Batgirl IV",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Batgirl IV",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Batman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Battlestar",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Battlestar",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Beast",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Beast",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Beast Boy",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Beta Ray Bill",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Beta Ray Bill",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Beta Ray Bill",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Big Barda",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Big Barda",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Big Barda",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Big Barda",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Big Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Bishop",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Bishop",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Bizarro",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Bizarro",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Bizarro",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Black Adam",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Adam",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Black Adam",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Black Adam",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Black Bolt",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Bolt",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Black Bolt",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Black Bolt",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Black Canary",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Cat",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Knight III",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Knight III",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Black Lightning",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Black Mamba",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Manta",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Manta",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Black Panther",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Black Panther",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Black Widow",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Blackout",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Blackout",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Blackwing",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Blackwulf",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Blade",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Bling!",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Bling!",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Blink",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Blizzard II",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Blob",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Blob",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Bloodaxe",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Bloodaxe",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Bloodaxe",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Booster Gold",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Booster Gold",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Booster Gold",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Brainiac",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Brainiac",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Brainiac",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Brainiac",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Bullseye",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Bumblebee",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cable",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cable",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Callisto",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Callisto",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Cannonball",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Cannonball",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Captain America",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Captain America",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Captain Atom",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Captain Atom",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Captain Atom",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Captain Atom",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Captain Britain",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Captain Britain",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Captain Britain",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel II",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Captain Marvel II",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Carnage",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Carnage",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Carnage",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Carnage",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Catwoman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Century",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Century",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Century",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Century",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Chamber",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Changeling",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cheetah",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Cheetah II",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Cheetah III",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cheetah III",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Cheetah III",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Cheetah III",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Citizen Steel",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Citizen Steel",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Cloak",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cloak",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Clock King",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Colossus",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Colossus",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Colossus",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Copycat",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cottonmouth",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Crystal",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cyborg",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Cyborg",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Cyborg",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Cyclops",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Daredevil",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Darkhawk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Darkseid",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Darkseid",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Darkseid",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Darkseid",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Darkstar",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Dazzler",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Dazzler",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Deadman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Deadshot",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Deathlok",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Deathlok",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Deathstroke",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Deathstroke",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Demogoblin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Destroyer",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Destroyer",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Destroyer",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Diamondback",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doc Samson",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doc Samson",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Doc Samson",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Doctor Doom",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doctor Doom",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Doctor Fate",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doctor Fate",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Doctor Octopus",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doctor Strange",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doctor Strange",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Domino",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doomsday",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Doomsday",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Doomsday",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Doomsday",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Doppelganger",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Doppelganger",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Doppelganger",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Drax the Destroyer",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Drax the Destroyer",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Drax the Destroyer",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Electro",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Electro",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Elektra",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Elongated Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Elongated Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Emma Frost",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Emma Frost",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Emma Frost",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Enchantress",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Enchantress",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Etrigan",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Etrigan",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Evilhawk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Exodus",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Exodus",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Falcon",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Feral",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Firebird",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Firelord",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Firelord",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Firelord",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Firestar",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Firestar",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Firestorm",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Firestorm",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Firestorm",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Flash",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Flash",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Forge",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Franklin Richards",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Franklin Richards",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Franklin Richards",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Franklin Storm",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Frenzy",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Frenzy",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Frenzy",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Galactus",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Galactus",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Galactus",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Galactus",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Gambit",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Gamora",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Gamora",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Gamora",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ghost Rider",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Ghost Rider",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Gladiator",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Gladiator",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Gladiator",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Goblin Queen",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Gorilla Grodd",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Gorilla Grodd",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Gorilla Grodd",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Gravity",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Green Arrow",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Green Goblin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Green Goblin",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Green Goblin II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Green Goblin II",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Groot",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Groot",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Groot",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Guy Gardner",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Guy Gardner",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Guy Gardner",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hal Jordan",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hal Jordan",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Hal Jordan",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Hal Jordan",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Harley Quinn",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Harley Quinn",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Havok",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Havok",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hawk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hawkeye II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hawkgirl",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Hawkgirl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Heat Wave",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hela",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hela",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Hela",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hellcat",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hope Summers",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hulk",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hulk",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Hulk",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Hulk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Human Torch",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Human Torch",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Human Torch",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Husk",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Husk",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Husk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hybrid",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hybrid",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Hybrid",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Hybrid",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hydro-Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Hyperion",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Hyperion",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Hyperion",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Hyperion",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Iceman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Iceman",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Iceman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ink",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Invisible Woman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Invisible Woman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Iron Fist",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Iron Fist",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Iron Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Iron Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Iron Man",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Iron Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Jack of Hearts",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Jack of Hearts",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Jack of Hearts",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Jennifer Kale",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "John Stewart",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "John Stewart",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "John Stewart",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "John Wraith",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Joker",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Joker",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Jolt",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Jubilee",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Juggernaut",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Juggernaut",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Justice",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Killer Croc",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Killer Croc",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Kilowog",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Kilowog",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Kilowog",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Kingpin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Klaw",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Klaw",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Kraven II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Kraven the Hunter",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Krypto",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Krypto",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Krypto",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Kyle Rayner",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Kyle Rayner",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Kyle Rayner",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Lady Deathstrike",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Lady Deathstrike",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Legion",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Lex Luthor",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Lex Luthor",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Lex Luthor",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Light Lass",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Lightning Lad",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Lightning Lord",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Living Brain",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Living Brain",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Living Brain",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Lizard",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Lizard",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Lobo",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Lobo",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Lobo",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Lobo",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Loki",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Loki",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Loki",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Longshot",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "MODOK",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mach-IV",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mach-IV",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Mach-IV",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Magneto",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Magneto",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Magneto",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Man-Thing",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Man-Wolf",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mandarin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mantis",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mantis",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Martian Manhunter",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Martian Manhunter",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Martian Manhunter",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Martian Manhunter",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Marvel Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Marvel Girl",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Maverick",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Medusa",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Medusa",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Mera",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mera",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Mera",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Mera",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Metallo",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Metallo",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Metallo",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Metron",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Metron",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Micro Lad",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mimic",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mimic",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Mimic",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Miss Martian",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Miss Martian",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Miss Martian",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Miss Martian",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Mister Fantastic",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mister Fantastic",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Mister Freeze",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mister Freeze",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Mister Sinister",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mister Sinister",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Mockingbird",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Molten Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Molten Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Moon Knight",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Moonstone",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Moonstone",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Moonstone",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Morlun",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Morlun",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Moses Magnum",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mr Immortal",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Multiple Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Multiple Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Mysterio",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mystique",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Mystique",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Namor",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Namor",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Namor",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Namor",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Namora",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Namorita",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Namorita",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Nebula",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Nebula",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Nick Fury",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Nightcrawler",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Northstar",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Northstar",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Nova",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Nova",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Nova",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Nova",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Odin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Odin",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Odin",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Odin",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Onslaught",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Onslaught",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Onslaught",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Penguin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Phantom Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Plantman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Plantman",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Plantman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Plastic Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Plastic Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Plastique",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Poison Ivy",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Polaris",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Polaris",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Power Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Power Girl",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Power Girl",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Power Girl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Professor X",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Professor Zoom",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Professor Zoom",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Psylocke",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Punisher",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Purple Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Question",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Quicksilver",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Quicksilver",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Quicksilver",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Quill",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Ra's Al Ghul",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Raven",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ray",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Ray",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Red Arrow",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Red Hulk",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Red Hulk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Red Skull",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Red Tornado",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Red Tornado",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Red Tornado",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Rhino",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Rhino",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Rick Flag",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Robin V",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Rocket Raccoon",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Rogue",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Rorschach",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sabretooth",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sabretooth",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Sage",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sandman",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Sandman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Scarecrow",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Scarlet Spider II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Scarlet Spider II",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Scarlet Spider II",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Scarlet Witch",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Scarlet Witch",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Sentry",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sentry",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Sentry",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Sentry",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Shadow King",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Shadow King",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Shadow Lass",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Shadow Lass",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Shadowcat",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Shang-Chi",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Shatterstar",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Shatterstar",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "She-Hulk",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "She-Hulk",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "She-Hulk",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Shocker",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Shocker",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Sif",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sif",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Sif",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Sif",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Silver Surfer",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Silver Surfer",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Silver Surfer",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Silver Surfer",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Silverclaw",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sinestro",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sinestro",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Sinestro",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Sinestro",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Siren",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Siren",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Siren",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Siren",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Siryn",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Skaar",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Skaar",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Snowbird",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Solomon Grundy",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Solomon Grundy",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Space Ghost",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Spider-Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Spider-Girl",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Spider-Girl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Spider-Gwen",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Spider-Gwen",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Spider-Gwen",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Spider-Gwen",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Spider-Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Spider-Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Spider-Man",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Spider-Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Spider-Woman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Spider-Woman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Spider-Woman III",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Spyke",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Star-Lord",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Starfire",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Starfire",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Stargirl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Stargirl",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Stargirl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Static",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Steel",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Steel",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Steel",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Steel",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Steppenwolf",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Steppenwolf",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Steppenwolf",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Steppenwolf",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Storm",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sunspot",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Sunspot",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Superboy",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Superboy",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Superboy",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Superboy",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Superboy-Prime",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Superboy-Prime",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Superboy-Prime",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Superboy-Prime",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Supergirl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Supergirl",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Supergirl",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Supergirl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Swarm",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Swarm",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Synch",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Synch",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Taskmaster",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thanos",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thanos",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Thanos",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "The Comedian",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thing",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thing",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Thing",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Thor Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thor Girl",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Thor Girl",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Thor Girl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Thunderbird",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thunderstrike",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Thunderstrike",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Thunderstrike",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Thunderstrike",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Thundra",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Thundra",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Tiger Shark",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Tiger Shark",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Tigra",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Tigra",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Tinkerer",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Toad",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Toad",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Toxin",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Toxin",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Toxin",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Toxin",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Triplicate Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Triton",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Triton",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Triton",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Ultron",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Ultron",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Ultron",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Vanisher",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Vanisher",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Vanisher",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Venom II",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Venom II",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Vibe",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Vixen",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Vulture",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Walrus",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "War Machine",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "War Machine",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "War Machine",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "War Machine",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Warlock",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Warlock",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Warlock",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Warp",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Wasp",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Wasp",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Wasp",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Winter Soldier",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Winter Soldier",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Wolfsbane",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Wolverine",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Wolverine",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Wonder Girl",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Wonder Girl",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Wonder Girl",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Wonder Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Wonder Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Wonder Man",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Wonder Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Wonder Woman",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Wonder Woman",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "Wonder Woman",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "Wonder Woman",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Wyatt Wingfoot",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "X-23",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "X-23",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "X-Man",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "X-Man",
+            "target": "strength",
+            "value": 1
+        },
+        {
+            "source": "X-Man",
+            "target": "speed",
+            "value": 1
+        },
+        {
+            "source": "X-Man",
+            "target": "durability",
+            "value": 1
+        },
+        {
+            "source": "Yellowjacket II",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Zatanna",
+            "target": "intelligence",
+            "value": 1
+        },
+        {
+            "source": "Zoom",
+            "target": "speed",
+            "value": 1
+        }
+    ]
+}

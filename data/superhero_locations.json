@@ -1,0 +1,974 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "A-Bomb",
+      "latitude": 33.5092,
+      "longitude": -111.899,
+      "city": "Scarsdale, Arizona",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 4,
+      "name": "Abomination",
+      "latitude": 45.815,
+      "longitude": 15.9819,
+      "city": "Zagreb, Yugoslavia",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 6,
+      "name": "Absorbing Man",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 8,
+      "name": "Adam Strange",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "city": "Chicago, Illinois",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 31,
+      "name": "Ant-Man II",
+      "latitude": 25.7215,
+      "longitude": -80.2684,
+      "city": "Coral Gables, Florida",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 35,
+      "name": "Apocalypse",
+      "latitude": 29.531,
+      "longitude": 35.0063,
+      "city": "Akkaba, Egypt",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 39,
+      "name": "Arachne",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "city": "Los Angeles, California",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 41,
+      "name": "Arclight",
+      "latitude": 14.0583,
+      "longitude": 108.2772,
+      "city": "Vietnam",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 49,
+      "name": "Atlas",
+      "latitude": 46.9363,
+      "longitude": -121.475,
+      "city": "Crystal Mountain",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 56,
+      "name": "Aurora",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "city": "Montreal, Quebec, Canada",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 57,
+      "name": "Azazel",
+      "latitude": 15.0,
+      "longitude": -75.0,
+      "city": "Isla des Demonas, Caribbean Sea",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 61,
+      "name": "Banshee",
+      "latitude": 53.1424,
+      "longitude": -7.6921,
+      "city": "Cassidy Keep, Ireland",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 72,
+      "name": "Battlestar",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "city": "Chicago, Illinois",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 75,
+      "name": "Beast",
+      "latitude": 40.0,
+      "longitude": -89.0,
+      "city": "Dunfee, Illinois",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 95,
+      "name": "Black Adam",
+      "latitude": 26.8206,
+      "longitude": 30.8025,
+      "city": "Kahndaq, Egypt",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 96,
+      "name": "Black Bolt",
+      "latitude": 31.0,
+      "longitude": -40.0,
+      "city": "Attilan, Atlantic Ocean",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 99,
+      "name": "Black Cat",
+      "latitude": 40.7282,
+      "longitude": -73.7949,
+      "city": "Queens, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 102,
+      "name": "Black Knight III",
+      "latitude": 42.6159,
+      "longitude": -70.661,
+      "city": "Gloucester, Massachusetts",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 104,
+      "name": "Black Mamba",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "city": "Chicago, Illinois",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 106,
+      "name": "Black Panther",
+      "latitude": -1.9577,
+      "longitude": 37.2972,
+      "city": "Wakanda, Africa",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 112,
+      "name": "Blade",
+      "latitude": 51.5136,
+      "longitude": -0.1365,
+      "city": "Soho, London,England",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 115,
+      "name": "Blink",
+      "latitude": 25.0343,
+      "longitude": -77.3963,
+      "city": "Bahamas",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 118,
+      "name": "Blizzard II",
+      "latitude": 39.6837,
+      "longitude": -75.7497,
+      "city": "Newark, Delaware",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 119,
+      "name": "Blob",
+      "latitude": 33.5779,
+      "longitude": -101.8552,
+      "city": "Lubbock, Texas",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 148,
+      "name": "Cannonball",
+      "latitude": 36.781,
+      "longitude": -85.4005,
+      "city": "Cumberland County, Kentucky",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 149,
+      "name": "Captain America",
+      "latitude": 40.7831,
+      "longitude": -73.9712,
+      "city": "Manhattan, New York City, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 151,
+      "name": "Captain Britain",
+      "latitude": 52.3555,
+      "longitude": -1.1743,
+      "city": "Braddock Manor, England",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 156,
+      "name": "Captain Marvel",
+      "latitude": 39.8283,
+      "longitude": -98.5795,
+      "city": "Fawcett City, United States",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 169,
+      "name": "Chamber",
+      "latitude": 55.3781,
+      "longitude": -3.436,
+      "city": "United Kingdom",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 180,
+      "name": "Cloak",
+      "latitude": 42.3334,
+      "longitude": -71.0495,
+      "city": "South Boston, Massachusetts",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 185,
+      "name": "Colossus",
+      "latitude": 52.0,
+      "longitude": 104.0,
+      "city": "Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 194,
+      "name": "Cyborg",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City, New York",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 196,
+      "name": "Cyclops",
+      "latitude": 61.2181,
+      "longitude": -149.9003,
+      "city": "Anchorage, Alaska",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 201,
+      "name": "Daredevil",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 202,
+      "name": "Darkhawk",
+      "latitude": 40.7282,
+      "longitude": -73.7949,
+      "city": "Queens, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 206,
+      "name": "Darkstar",
+      "latitude": 53.9045,
+      "longitude": 27.5615,
+      "city": "Minks, USSR",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 211,
+      "name": "Dazzler",
+      "latitude": 40.7891,
+      "longitude": -73.1349,
+      "city": "Gardendale, Long Island, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 221,
+      "name": "Doc Samson",
+      "latitude": 36.15398,
+      "longitude": -95.99277,
+      "city": "Tulsa, Oklahoma",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 225,
+      "name": "Doctor Octopus",
+      "latitude": 42.81424,
+      "longitude": -73.93957,
+      "city": "Schenectady, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 226,
+      "name": "Doctor Strange",
+      "latitude": 39.95258,
+      "longitude": -75.16522,
+      "city": "Philadelphia, Pennsylvania",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 227,
+      "name": "Domino",
+      "latitude": 25.28662,
+      "longitude": -80.89865,
+      "city": "Project: Armageddon base, Everglades, Florida",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 234,
+      "name": "Drax the Destroyer",
+      "latitude": 34.1808,
+      "longitude": -118.309,
+      "city": "Burbank, California",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 241,
+      "name": "Emma Frost",
+      "latitude": 42.3611,
+      "longitude": -71.0571,
+      "city": "Boston, Massachusetts",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 251,
+      "name": "Falcon",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 257,
+      "name": "Firebird",
+      "latitude": 35.5889,
+      "longitude": -105.2236,
+      "city": "Buena Vista, New Mexico",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 263,
+      "name": "Flash",
+      "latitude": 38.5,
+      "longitude": -98.5,
+      "city": "Hibbardsville, Kansas",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 268,
+      "name": "Forge",
+      "latitude": 39.8283,
+      "longitude": -98.5795,
+      "city": "Unrevealed, presumably in the American West",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 269,
+      "name": "Franklin Richards",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 274,
+      "name": "Gambit",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "city": "New Orleans, Louisiana",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 280,
+      "name": "Ghost Rider",
+      "latitude": 42.3636,
+      "longitude": -87.8448,
+      "city": "Waukegan, Illinois",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 286,
+      "name": "Goblin Queen",
+      "latitude": 41.4925,
+      "longitude": -99.9018,
+      "city": "Created in Sinister's Labs, Nebraska",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 296,
+      "name": "Gravity",
+      "latitude": 43.7508,
+      "longitude": -87.7145,
+      "city": "Sheboygan, Wisconsin",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 299,
+      "name": "Green Goblin",
+      "latitude": 41.7637,
+      "longitude": -72.6851,
+      "city": "Hartford, Connecticut",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 300,
+      "name": "Green Goblin II",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 305,
+      "name": "Guy Gardner",
+      "latitude": 39.2904,
+      "longitude": -76.6122,
+      "city": "Baltimore, Maryland",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 306,
+      "name": "Hal Jordan",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "city": "Coast City, California",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 311,
+      "name": "Havok",
+      "latitude": 21.3069,
+      "longitude": -157.8583,
+      "city": "Honolulu, Hawaii",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 314,
+      "name": "Hawkeye II",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 323,
+      "name": "Hellcat",
+      "latitude": 36.7783,
+      "longitude": -119.4179,
+      "city": "Centerville, CA USA",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 332,
+      "name": "Hulk",
+      "latitude": 39.7589,
+      "longitude": -84.1916,
+      "city": "Dayton, Ohio",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 333,
+      "name": "Human Torch",
+      "latitude": 40.7891,
+      "longitude": -73.1349,
+      "city": "Glenville, Long Island, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 344,
+      "name": "Invisible Woman",
+      "latitude": 40.7891,
+      "longitude": -73.1349,
+      "city": "Glenville, Long Island, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 412,
+      "name": "Lizard",
+      "latitude": 25.7215,
+      "longitude": -80.2684,
+      "city": "Coral Gables, Florida",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 421,
+      "name": "Mach-IV",
+      "latitude": 39.2904,
+      "longitude": -76.6122,
+      "city": "Baltimore, Maryland",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 429,
+      "name": "Man-Wolf",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 431,
+      "name": "Mantis",
+      "latitude": 14.0583,
+      "longitude": 108.2772,
+      "city": "Vietnam",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 470,
+      "name": "Moon Knight",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "city": "Chicago, Illinois",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 479,
+      "name": "Mysterio",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 489,
+      "name": "Nick Fury",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 527,
+      "name": "Professor X",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 529,
+      "name": "Psylocke",
+      "latitude": 52.3555,
+      "longitude": -1.1743,
+      "city": "Braddock Manor, England",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 530,
+      "name": "Punisher",
+      "latitude": 40.7282,
+      "longitude": -73.7949,
+      "city": "Queens, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 572,
+      "name": "Sandman",
+      "latitude": 40.7282,
+      "longitude": -73.7949,
+      "city": "Queens, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 589,
+      "name": "She-Hulk",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "city": "Los Angeles, California",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 618,
+      "name": "Spider-Girl",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 620,
+      "name": "Spider-Man",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 638,
+      "name": "Storm",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 658,
+      "name": "Thing",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City, New York",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 671,
+      "name": "Toxin",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "city": "New York City",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 685,
+      "name": "Vanisher",
+      "latitude": 42.3611,
+      "longitude": -71.0571,
+      "city": "Boston, Massachusetts",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 703,
+      "name": "War Machine",
+      "latitude": 39.95258,
+      "longitude": -75.16522,
+      "city": "Philadelphia, Pennsylvania",
+      "publisher": "Marvel Comics"
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 4
+    },
+    {
+      "source": 4,
+      "target": 6
+    },
+    {
+      "source": 6,
+      "target": 8
+    },
+    {
+      "source": 8,
+      "target": 31
+    },
+    {
+      "source": 31,
+      "target": 35
+    },
+    {
+      "source": 35,
+      "target": 39
+    },
+    {
+      "source": 39,
+      "target": 41
+    },
+    {
+      "source": 41,
+      "target": 49
+    },
+    {
+      "source": 49,
+      "target": 56
+    },
+    {
+      "source": 56,
+      "target": 57
+    },
+    {
+      "source": 57,
+      "target": 61
+    },
+    {
+      "source": 61,
+      "target": 72
+    },
+    {
+      "source": 72,
+      "target": 75
+    },
+    {
+      "source": 75,
+      "target": 95
+    },
+    {
+      "source": 95,
+      "target": 96
+    },
+    {
+      "source": 96,
+      "target": 99
+    },
+    {
+      "source": 99,
+      "target": 102
+    },
+    {
+      "source": 102,
+      "target": 104
+    },
+    {
+      "source": 104,
+      "target": 106
+    },
+    {
+      "source": 106,
+      "target": 112
+    },
+    {
+      "source": 112,
+      "target": 115
+    },
+    {
+      "source": 115,
+      "target": 118
+    },
+    {
+      "source": 118,
+      "target": 119
+    },
+    {
+      "source": 119,
+      "target": 148
+    },
+    {
+      "source": 148,
+      "target": 149
+    },
+    {
+      "source": 149,
+      "target": 151
+    },
+    {
+      "source": 151,
+      "target": 156
+    },
+    {
+      "source": 156,
+      "target": 169
+    },
+    {
+      "source": 169,
+      "target": 180
+    },
+    {
+      "source": 180,
+      "target": 185
+    },
+    {
+      "source": 185,
+      "target": 194
+    },
+    {
+      "source": 194,
+      "target": 196
+    },
+    {
+      "source": 196,
+      "target": 201
+    },
+    {
+      "source": 201,
+      "target": 202
+    },
+    {
+      "source": 202,
+      "target": 206
+    },
+    {
+      "source": 206,
+      "target": 211
+    },
+    {
+      "source": 211,
+      "target": 221
+    },
+    {
+      "source": 221,
+      "target": 225
+    },
+    {
+      "source": 225,
+      "target": 226
+    },
+    {
+      "source": 226,
+      "target": 227
+    },
+    {
+      "source": 227,
+      "target": 234
+    },
+    {
+      "source": 234,
+      "target": 241
+    },
+    {
+      "source": 241,
+      "target": 251
+    },
+    {
+      "source": 251,
+      "target": 257
+    },
+    {
+      "source": 257,
+      "target": 263
+    },
+    {
+      "source": 263,
+      "target": 268
+    },
+    {
+      "source": 268,
+      "target": 269
+    },
+    {
+      "source": 269,
+      "target": 274
+    },
+    {
+      "source": 274,
+      "target": 280
+    },
+    {
+      "source": 280,
+      "target": 286
+    },
+    {
+      "source": 286,
+      "target": 296
+    },
+    {
+      "source": 296,
+      "target": 299
+    },
+    {
+      "source": 299,
+      "target": 300
+    },
+    {
+      "source": 300,
+      "target": 305
+    },
+    {
+      "source": 305,
+      "target": 306
+    },
+    {
+      "source": 306,
+      "target": 311
+    },
+    {
+      "source": 311,
+      "target": 314
+    },
+    {
+      "source": 314,
+      "target": 323
+    },
+    {
+      "source": 323,
+      "target": 332
+    },
+    {
+      "source": 332,
+      "target": 333
+    },
+    {
+      "source": 333,
+      "target": 344
+    },
+    {
+      "source": 344,
+      "target": 412
+    },
+    {
+      "source": 412,
+      "target": 421
+    },
+    {
+      "source": 421,
+      "target": 429
+    },
+    {
+      "source": 429,
+      "target": 431
+    },
+    {
+      "source": 431,
+      "target": 470
+    },
+    {
+      "source": 470,
+      "target": 479
+    },
+    {
+      "source": 479,
+      "target": 489
+    },
+    {
+      "source": 489,
+      "target": 527
+    },
+    {
+      "source": 527,
+      "target": 529
+    },
+    {
+      "source": 529,
+      "target": 530
+    },
+    {
+      "source": 530,
+      "target": 572
+    },
+    {
+      "source": 572,
+      "target": 589
+    },
+    {
+      "source": 589,
+      "target": 618
+    },
+    {
+      "source": 618,
+      "target": 620
+    },
+    {
+      "source": 620,
+      "target": 638
+    },
+    {
+      "source": 638,
+      "target": 658
+    },
+    {
+      "source": 658,
+      "target": 671
+    },
+    {
+      "source": 671,
+      "target": 685
+    },
+    {
+      "source": 685,
+      "target": 703
+    }
+  ]
+}
