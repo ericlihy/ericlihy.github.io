@@ -4,7 +4,7 @@
 This project presents an interactive storytelling experience that explores the characteristics that define superheroes and villains throughout comic book history. Users embark on a journey through Xavier's School for Gifted Youngsters, where they can explore hero attributes, test their own potential abilities, and discover how they might fare as a superhero.
 
 ## Project Links
-- **Website**: [Project URL Placeholder]
+- **Website**: https://ericlihy.github.io/
 - **Screencast**: https://drive.google.com/file/d/1kxC89HNecjww1ZklIgd27O5TXWc0KNhE/view?usp=drive_link
 
 ## Implementation Details
